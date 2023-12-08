@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/university-reunion-event/static/css/main.e6c13ad2.css",
-    "main.js": "/university-reunion-event/static/js/main.712cf753.js",
+    "main.js": "/university-reunion-event/static/js/main.d0fae750.js",
     "static/js/787.d9a489cb.chunk.js": "/university-reunion-event/static/js/787.d9a489cb.chunk.js",
     "index.html": "/university-reunion-event/index.html",
     "main.e6c13ad2.css.map": "/university-reunion-event/static/css/main.e6c13ad2.css.map",
-    "main.712cf753.js.map": "/university-reunion-event/static/js/main.712cf753.js.map",
+    "main.d0fae750.js.map": "/university-reunion-event/static/js/main.d0fae750.js.map",
     "787.d9a489cb.chunk.js.map": "/university-reunion-event/static/js/787.d9a489cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.712cf753.js"
+    "static/js/main.d0fae750.js"
   ]
 }
